@@ -1,11 +1,6 @@
 <h1>Hi 👋, I'm Jay  </h1>
 <h2> Formerly known as Jose </h2>
 
-### Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-cruz-unlv/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=outlookl&logoColor=white)](mailto:jay-cruz@outlook.com)
-
 ---
 
 ### My Site
