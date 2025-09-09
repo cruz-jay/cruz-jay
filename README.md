@@ -4,7 +4,7 @@
 ---
 
 ### My Site
-<a target="_blank" href="https://dev.to/https://headspaceandtiming.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" />
+<a target="_blank" href="https://headspaceandtiming.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" />
 </a>
 
 ### Languages 
