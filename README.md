@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Jay  </h1>
 <h2> Formerly known as Jose </h2>
 
----
-
 ### Languages 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -26,8 +24,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-
----
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cruz-jay&show_icons=true&locale=en&layout=compact" alt="cruz-jay" /></p>
