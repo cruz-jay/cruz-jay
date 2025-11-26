@@ -3,10 +3,6 @@
 
 ---
 
-### My Site
-<a target="_blank" href="https://headspaceandtiming.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" />
-</a>
-
 ### Languages 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
